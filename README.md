@@ -2,6 +2,8 @@
 
 An end-to-end machine learning system that detects fraudulent credit card transactions, trained on 284,807 real transactions and deployed as a REST API.
 
+**Live API:** https://fraud-detection-ml-is5l.onrender.com/docs
+
 ## Results
 
 | Model | Precision | Recall | F1 | ROC AUC |
