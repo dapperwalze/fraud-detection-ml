@@ -7,3 +7,4 @@ pandas==3.0.1
 imbalanced-learn==0.14.1
 pydantic==2.12.5
 xgboost==3.2.0
+mlflow==3.10.1
