@@ -5,7 +5,7 @@ import numpy as np
 
 app = FastAPI(title="Fraud Detection API")
 
-model = joblib.load("fraud_model.pkl")
+model = joblib.load("fraud_model_xgb.pkl")
 scaler = joblib.load("scaler.pkl")
 
 class Transaction(BaseModel):
